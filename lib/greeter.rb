@@ -5,4 +5,4 @@ class Greeter
   def greet
     "Hello, #{@who}"
   end
-endThis is the Hello World example from the git tutorial.
+end
